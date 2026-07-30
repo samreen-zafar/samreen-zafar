@@ -1,25 +1,88 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Automation%20Learner&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20AI%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D4A24E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%A4%96+AI+Automation+Learner;%F0%9F%9A%80+Web+Developer+%26+Automation+Explorer;%F0%9F%92%A1+Learn+Karo%2C+Aage+Badho%21" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-</div>
-
 <p align="center">
-A passionate learner exploring <b>AI-powered automation</b>, <b>web development</b>, and smart digital solutions.
-Currently sharpening my skills through hands-on projects, internships, and continuous learning —
-turning ideas into real, working products. 🌱✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:3E2723,100:1C1310&height=120&section=header&text=Always%20Learning%2C%20Always%20Building&fontSize=16&fontColor=D9C6B0&fontAlignY=25" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+<h1 align="center"> AI AUTOMATION LEARNER</h1>
+</p>
 
-[![Learn More](https://img.shields.io/badge/🌐_Learn_More-Visit_My_Portfolio-D4A24E?style=for-the-badge&labelColor=3B2415)](https:file:///D:/Users/Samreen%20Chaudhery/Downloads/files/portfolio.html)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-5C3A21?style=flat-square&labelColor=1C1310" />
+</p>
 
-</div>
+<p align="center">
+A passionate learner exploring AI-powered automation, web development, and smart digital solutions.
+Currently sharpening my skills through hands-on projects, internships, and continuous learning —
+turning ideas into real, working products.
+</p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+---
+
+### Experience
+
+**Laravel Developer — Internship**
+ID Logix Software House · 3 Months · 2025
+
+**WordPress Developer — Internship**
+DigiWeebly · 3 Months · 2026
+
+---
+
+### Education
+
+**Bachelor of Science in Information Technology (BSIT)**
+University of Sahiwal
+Currently in 6th Semester · CGPA: 3.79 / 4.00
+
+---
+
+### Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-Elementor-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-HTML5-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-CSS3-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-PHP-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-Laravel-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-MySQL-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-Responsive%20Design-3E2723?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-Git%20%26%20GitHub-3E2723?style=flat-square&labelColor=1C1310" />
+</p>
+
+**MS Office**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-MS%20Word-5C3A21?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-MS%20Excel-5C3A21?style=flat-square&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/-MS%20PowerPoint-5C3A21?style=flat-square&labelColor=1C1310" />
+</p>
+
+---
+
+### Professional Skills
+
+Communication Skills · Client Handling · Customer Relationship Management · Problem Solving · Time Management · Team Collaboration · Reporting & Documentation · Quick Learning · Presentation Skills
+
+---
+
+### Languages
+
+**English** — Fluent
+**Urdu** — Native
+
+---
+
+### Connect
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-3E2723?style=flat-square&logo=linkedin&logoColor=D9C6B0&labelColor=1C1310" />
+  <img src="https://img.shields.io/badge/Twitter-3E2723?style=flat-square&logo=x&logoColor=D9C6B0&labelColor=1C1310" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:3E2723,100:1C1310&height=120&section=footer&text=Always%20Learning%2C%20Always%20Building&fontSize=16&fontColor=D9C6B0&fontAlignY=75" width="100%" />
+</p>
