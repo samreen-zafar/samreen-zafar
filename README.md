@@ -77,8 +77,13 @@ Communication Skills · Client Handling · Customer Relationship Management · P
 ### Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-3E2723?style=flat-square&logo=linkedin&logoColor=D9C6B0&labelColor=1C1310" />
-  <img src="https://img.shields.io/badge/Twitter-3E2723?style=flat-square&logo=x&logoColor=D9C6B0&labelColor=1C1310" />
+  <a href="https://www.linkedin.com/in/samreen-zafar01/">
+    <img src="https://img.shields.io/badge/LinkedIn-3E2723?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/Samreenzafar01">
+    <img src="https://img.shields.io/badge/Twitter-3E2723?style=flat-square&logo=x&logoColor=white" />
+  </a>
 </p>
 
 <br>
