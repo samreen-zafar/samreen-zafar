@@ -1,40 +1,25 @@
-# AI Automation Learner | Portfolio
+<div align="center">
 
-A single-page personal portfolio website built with HTML, CSS, and vanilla JavaScript. Features an animated dark-themed design with scroll-triggered reveal animations, a 3D tilt effect on cards, and an animated desk illustration.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Automation%20Learner&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20AI%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Live Preview
-Open `portfolio.html` in any modern web browser to view the site.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D4A24E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%A4%96+AI+Automation+Learner;%F0%9F%9A%80+Web+Developer+%26+Automation+Explorer;%F0%9F%92%A1+Learn+Karo%2C+Aage+Badho%21" alt="Typing SVG" />
 
-## 📁 Files
-| File | Description |
-|---|---|
-| `portfolio.html` | Main portfolio page (HTML, CSS, JS all in one file) |
-| `profile-photo.png` | Profile photo displayed on the hero device screen |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
-## ✨ Sections
-- **Hero / About** — Introduction with an animated desk scene and profile photo
-- **Experience** — Internship history (Laravel Developer, WordPress Developer)
-- **Education** — BSIT, University of Sahiwal
-- **Technical Skills** — WordPress, Elementor, HTML5, CSS3, PHP, Laravel, MySQL, etc.
-- **MS Office Skills** — Word, Excel, PowerPoint
-- **Professional Skills** — Communication, client handling, teamwork, etc.
-- **Languages** — English & Urdu proficiency bars
+</div>
 
-## 🛠️ Built With
-- HTML5
-- CSS3 (custom animations, gradients, responsive grid)
-- Vanilla JavaScript (IntersectionObserver for scroll reveals, mouse-tilt effects)
-- Google Fonts (Dancing Script)
+<p align="center">
+A passionate learner exploring <b>AI-powered automation</b>, <b>web development</b>, and smart digital solutions.
+Currently sharpening my skills through hands-on projects, internships, and continuous learning —
+turning ideas into real, working products. 🌱✨
+</p>
 
-## 🚀 How to Use
-1. Keep `portfolio.html` and `profile-photo.png` in the **same folder**.
-2. Double-click `portfolio.html` to open it in your browser — no build step or server required.
-3. To host it online (e.g. GitHub Pages), just push both files to a repository and enable Pages on the `main` branch.
+<div align="center">
 
-## ✏️ Customization
-- Update text directly inside the `<section>` tags in `portfolio.html`.
-- Replace `profile-photo.png` with your own image (keep the same filename, or update the `src` in the `<img class="screen-photo">` tag).
-- Colors can be changed from the CSS `:root` variables at the top of the file (`--cream`, `--brown`, `--teal`, etc.).
+[![Learn More](https://img.shields.io/badge/🌐_Learn_More-Visit_My_Portfolio-D4A24E?style=for-the-badge&labelColor=3B2415)](https://your-portfolio-link.com)
 
----
-Made with ❤️ — Always Learning, Always Building
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
